@@ -1,0 +1,24 @@
+[
+  {
+    "from": "bot",
+    "text": "Hello, I'm Agent 1, a virtual assistant. Just so you are aware, I sometimes use AI to answer your questions. If you provided a website during creation, try asking me about it! Next try giving me some more knowledge by setting up generative AI.",
+    "timestamp": "2024-12-14T17:17:02.999168Z"
+  },
+  {
+    "from": "user",
+    "text": "events",
+    "timestamp": "2024-12-14T17:17:08.2773739Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-14T17:17:08.4735674Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:17:10.5430762Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:17:20.5659551Z"
+  }
+]
