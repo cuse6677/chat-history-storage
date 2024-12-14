@@ -1,0 +1,49 @@
+[
+  {
+    "from": "bot",
+    "text": "Hello, I'm Agent 1, a virtual assistant. Just so you are aware, I sometimes use AI to answer your questions. If you provided a website during creation, try asking me about it! Next try giving me some more knowledge by setting up generative AI.",
+    "timestamp": "2024-12-14T17:13:33.6639045Z"
+  },
+  {
+    "from": "user",
+    "text": "events",
+    "timestamp": "2024-12-14T17:13:35.8727106Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-14T17:13:36.1014502Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:13:38.2137981Z"
+  },
+  {
+    "from": "bot",
+    "text": "[{\"$kind\":\"FileDataValue\",\"value\":{\"$kind\":\"ConversationFileReference\",\"value\":\"ce974a38-2ad6-4209-a65d-d3b8ec8aa31d\"}}]",
+    "timestamp": "2024-12-14T17:13:40.5362182Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:13:55.613139Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:14:00.7538408Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:14:03.452149Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:14:03.5847925Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:14:03.8167983Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-14T17:14:04.7668025Z"
+  }
+]
