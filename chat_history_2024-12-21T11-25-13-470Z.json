@@ -1,0 +1,20 @@
+[
+  {
+    "from": "bot",
+    "text": "Hello, I'm Mars Beauty Assistant, Your personilised virtual assistant. ",
+    "timestamp": "2024-12-21T11:24:55.7161075Z"
+  },
+  {
+    "from": "user",
+    "text": "Events",
+    "timestamp": "2024-12-21T11:25:05.4247224Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-21T11:25:10.4831852Z"
+  },
+  {
+    "from": "user",
+    "timestamp": "2024-12-21T11:25:13.2846138Z"
+  }
+]
