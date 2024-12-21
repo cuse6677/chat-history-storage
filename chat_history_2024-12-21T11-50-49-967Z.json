@@ -1,0 +1,61 @@
+[
+  {
+    "from": "bot",
+    "text": "Hello, I'm Mars Beauty Assistant, Your personilised virtual assistant. ",
+    "timestamp": "2024-12-21T11:49:48.3244508Z"
+  },
+  {
+    "from": "bot",
+    "text": "",
+    "timestamp": "2024-12-21T11:49:56.6112889Z"
+  },
+  {
+    "from": "bot",
+    "text": "",
+    "timestamp": "2024-12-21T11:49:58.2282518Z"
+  },
+  {
+    "from": "bot",
+    "text": "",
+    "timestamp": "2024-12-21T11:49:59.8101779Z"
+  },
+  {
+    "from": "bot",
+    "text": "",
+    "timestamp": "2024-12-21T11:50:00.7575903Z"
+  },
+  {
+    "from": "user",
+    "text": "hi",
+    "timestamp": "2024-12-21T11:50:05.2334744Z"
+  },
+  {
+    "from": "bot",
+    "text": "Hello, how can I help you today?",
+    "timestamp": "2024-12-21T11:50:09.5035059Z"
+  },
+  {
+    "from": "user",
+    "text": "what can you do for me",
+    "timestamp": "2024-12-21T11:50:18.0773261Z"
+  },
+  {
+    "from": "bot",
+    "text": "I can help you with Mars Cosmetics Product and any queries related to Mars...",
+    "timestamp": "2024-12-21T11:50:22.2348752Z"
+  },
+  {
+    "from": "user",
+    "text": "i want to buy lipstick",
+    "timestamp": "2024-12-21T11:50:32.9870081Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-21T11:50:42.1569582Z"
+  },
+  {
+    "from": "bot",
+    "text": "Would you like to give a review for the above response?",
+    "timestamp": "2024-12-21T11:50:42.5950102Z"
+  }
+]
