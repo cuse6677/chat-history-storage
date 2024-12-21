@@ -1,0 +1,16 @@
+[
+  {
+    "from": "user",
+    "text": "chat history",
+    "timestamp": "2024-12-21T12:02:28.8838811Z"
+  },
+  {
+    "from": "bot",
+    "text": "The content was filtered due to Responsible AI restrictions.",
+    "timestamp": "2024-12-21T12:02:31.3271329Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-21T12:02:31.9720112Z"
+  }
+]
