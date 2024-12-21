@@ -1,0 +1,26 @@
+[
+  {
+    "from": "user",
+    "text": "hi",
+    "timestamp": "2024-12-21T12:19:00.7637723Z"
+  },
+  {
+    "from": "bot",
+    "text": "Hello, how can I help you today?",
+    "timestamp": "2024-12-21T12:19:05.7621217Z"
+  },
+  {
+    "from": "user",
+    "text": "i want lipstick",
+    "timestamp": "2024-12-21T12:19:13.4103176Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-21T12:19:20.9035988Z"
+  },
+  {
+    "from": "bot",
+    "text": "Would you like to give a review for the above response?",
+    "timestamp": "2024-12-21T12:19:21.3953654Z"
+  }
+]
