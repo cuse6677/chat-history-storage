@@ -1,0 +1,12 @@
+[
+  {
+    "from": "user",
+    "text": "HI",
+    "timestamp": "2024-12-23T14:13:12.5400113Z"
+  },
+  {
+    "from": "bot",
+    "text": "Hello, how can I help you today?",
+    "timestamp": "2024-12-23T14:13:15.6881229Z"
+  }
+]
