@@ -1,0 +1,69 @@
+[
+  {
+    "from": "user",
+    "text": "Hi  am arin",
+    "timestamp": "2024-12-23T14:02:41.7147719Z"
+  },
+  {
+    "from": "bot",
+    "text": "Hello, how can I help you today?",
+    "timestamp": "2024-12-23T14:02:44.8971543Z"
+  },
+  {
+    "from": "user",
+    "text": "My name is arin",
+    "timestamp": "2024-12-23T14:02:51.2754684Z"
+  },
+  {
+    "from": "bot",
+    "text": "Hello, how can I help you today?",
+    "timestamp": "2024-12-23T14:02:54.1562608Z"
+  },
+  {
+    "from": "user",
+    "text": "what can you do for me",
+    "timestamp": "2024-12-23T14:03:07.1020621Z"
+  },
+  {
+    "from": "bot",
+    "text": "I can help you with Mars Cosmetics Product and any queries related to Mars...",
+    "timestamp": "2024-12-23T14:03:10.0378389Z"
+  },
+  {
+    "from": "user",
+    "text": "can yo find me some best makeup ki",
+    "timestamp": "2024-12-23T14:03:25.7246506Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-23T14:03:32.1575062Z"
+  },
+  {
+    "from": "bot",
+    "text": "Would you like to give a review for the above response?",
+    "timestamp": "2024-12-23T14:03:32.250487Z"
+  },
+  {
+    "from": "user",
+    "text": "yes",
+    "timestamp": "2024-12-23T14:03:49.3510286Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-23T14:03:49.7570351Z"
+  },
+  {
+    "from": "user",
+    "text": "i want to buy some good lipstick",
+    "timestamp": "2024-12-23T14:04:14.1410556Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-23T14:04:21.6225973Z"
+  },
+  {
+    "from": "bot",
+    "text": "Would you like to give a review for the above response?",
+    "timestamp": "2024-12-23T14:04:21.7093194Z"
+  }
+]
