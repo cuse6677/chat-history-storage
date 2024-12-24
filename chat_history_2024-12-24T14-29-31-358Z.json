@@ -1,0 +1,58 @@
+[
+  {
+    "from": "bot",
+    "text": "Hello, I'm Mars Beauty Assistant, Your personilised virtual assistant. ",
+    "timestamp": "2024-12-24T14:23:38.5856695Z"
+  },
+  {
+    "from": "user",
+    "text": "mahndhra xuv on road prce",
+    "timestamp": "2024-12-24T14:24:30.4645482Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-24T14:24:37.3803573Z"
+  },
+  {
+    "from": "user",
+    "text": "new ipone feathers",
+    "timestamp": "2024-12-24T14:25:02.3506814Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-24T14:25:07.8643428Z"
+  },
+  {
+    "from": "user",
+    "text": "new party places for new year",
+    "timestamp": "2024-12-24T14:25:35.2539935Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-24T14:25:40.0222354Z"
+  },
+  {
+    "from": "user",
+    "text": "new arriavals of mars products",
+    "timestamp": "2024-12-24T14:26:44.1682103Z"
+  },
+  {
+    "from": "bot",
+    "text": "What product are you looking for? Please enter or choose a product.",
+    "timestamp": "2024-12-24T14:26:47.2821869Z"
+  },
+  {
+    "from": "user",
+    "text": "Face",
+    "timestamp": "2024-12-24T14:26:51.4706834Z"
+  },
+  {
+    "from": "bot",
+    "timestamp": "2024-12-24T14:26:54.8494628Z"
+  },
+  {
+    "from": "bot",
+    "text": "Would you like to give a review for the above response?",
+    "timestamp": "2024-12-24T14:26:54.9393392Z"
+  }
+]
